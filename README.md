@@ -33,7 +33,7 @@ The bar chart represents visitors (in thousands) from three different sources:
    The visualization will be displayed as a bar chart.
 
 ## 📷 Sample Output
-![Web Traffic Chart](column-chart-examples.jpg)
+![Web Traffic Chart](column-chart.jpg)
 
 ## 📌 Key Takeaways
 - Social Media drives the highest traffic.
