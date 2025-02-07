@@ -27,7 +27,7 @@ The bar chart represents visitors (in thousands) from three different sources:
    ```
 3. **Run the Python Script**
    ```bash
-   python web_traffic_chart.py
+   python main.py
    ```
 4. **View the Output**
    The visualization will be displayed as a bar chart.
